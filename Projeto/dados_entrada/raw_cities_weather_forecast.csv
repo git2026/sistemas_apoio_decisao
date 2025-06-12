@@ -1,0 +1,201 @@
+city,datetime_txt,temp_c,humidity_percent,weather_main,weather_description,wind_speed_mps,pressure_hpa,pop_precipitation_prob
+Seoul,2025-06-04 18:00:00,15.76,88,Clear,céu limpo,1.03,1010,0
+Seoul,2025-06-04 21:00:00,16.05,80,Clear,céu limpo,1.55,1010,0
+Seoul,2025-06-05 00:00:00,20.21,56,Clear,céu limpo,2.35,1011,0
+Seoul,2025-06-05 03:00:00,26.02,26,Clouds,nuvens dispersas,4.49,1012,0
+Seoul,2025-06-05 06:00:00,27.34,22,Clouds,nuvens quebradas,4.96,1011,0
+Seoul,2025-06-05 09:00:00,24.12,25,Clouds,nublado,3.84,1010,0
+Seoul,2025-06-05 12:00:00,21.79,36,Clouds,nublado,1.51,1011,0
+Seoul,2025-06-05 15:00:00,20.21,40,Clouds,nublado,1.45,1011,0
+Seoul,2025-06-05 18:00:00,18.57,43,Clouds,nublado,1.36,1010,0
+Seoul,2025-06-05 21:00:00,18.43,45,Clouds,nuvens quebradas,1.53,1011,0
+Seoul,2025-06-06 00:00:00,23.92,36,Clouds,nuvens quebradas,3.33,1010,0
+Seoul,2025-06-06 03:00:00,28.34,25,Clouds,nuvens quebradas,6.11,1009,0
+Seoul,2025-06-06 06:00:00,28.15,27,Clouds,nuvens quebradas,7.17,1008,0
+Seoul,2025-06-06 09:00:00,25.34,38,Clouds,nublado,6.33,1008,0
+Seoul,2025-06-06 12:00:00,22.27,54,Clouds,nublado,3.25,1009,0
+Seoul,2025-06-06 15:00:00,20.85,60,Clouds,nuvens quebradas,2.11,1009,0
+Seoul,2025-06-06 18:00:00,19.71,65,Clouds,nublado,1.62,1009,0
+Seoul,2025-06-06 21:00:00,19.18,65,Clouds,nuvens quebradas,1.07,1010,0
+Seoul,2025-06-07 00:00:00,23.52,54,Clouds,nuvens quebradas,3.64,1009,0
+Seoul,2025-06-07 03:00:00,26.67,44,Clouds,nublado,5.71,1009,0
+Seoul,2025-06-07 06:00:00,26.14,51,Clouds,nuvens quebradas,6.24,1008,0
+Seoul,2025-06-07 09:00:00,23.57,64,Clouds,nuvens dispersas,5.31,1008,0
+Seoul,2025-06-07 12:00:00,21.1,68,Clouds,nuvens quebradas,3.35,1009,0
+Seoul,2025-06-07 15:00:00,20.5,72,Clouds,nublado,2.29,1010,0
+Seoul,2025-06-07 18:00:00,19.72,79,Clouds,nublado,2.12,1009,0
+Seoul,2025-06-07 21:00:00,19.41,81,Clouds,nublado,2.26,1009,0
+Seoul,2025-06-08 00:00:00,22.4,66,Clouds,nublado,2.24,1010,0
+Seoul,2025-06-08 03:00:00,26.23,47,Clouds,nublado,3.55,1009,0
+Seoul,2025-06-08 06:00:00,28.25,38,Clouds,nublado,4.18,1007,0
+Seoul,2025-06-08 09:00:00,26.21,45,Clouds,nublado,3.77,1007,0
+Seoul,2025-06-08 12:00:00,23.26,56,Clouds,nublado,2.01,1009,0
+Seoul,2025-06-08 15:00:00,21.31,70,Clouds,nublado,1.26,1009,0
+Seoul,2025-06-08 18:00:00,19.94,80,Clouds,nublado,1.17,1009,0
+Seoul,2025-06-08 21:00:00,19.37,83,Clouds,nuvens quebradas,0.59,1010,0
+Seoul,2025-06-09 00:00:00,23.62,58,Clouds,nuvens quebradas,1.39,1010,0
+Seoul,2025-06-09 03:00:00,29.4,33,Clouds,nublado,1.79,1009,0
+Seoul,2025-06-09 06:00:00,31.65,24,Clouds,nuvens quebradas,3.52,1007,0
+Seoul,2025-06-09 09:00:00,28.58,33,Clear,céu limpo,4.59,1008,0
+Seoul,2025-06-09 12:00:00,25,44,Clear,céu limpo,1.72,1010,0
+Seoul,2025-06-09 15:00:00,23.07,53,Clear,céu limpo,1.92,1011,0
+New York,2025-06-04 18:00:00,28.12,48,Clear,céu limpo,4.95,1021,0
+New York,2025-06-04 21:00:00,28.03,50,Clouds,céu pouco nublado,6.19,1021,0
+New York,2025-06-05 00:00:00,24.82,56,Clouds,céu pouco nublado,2.32,1020,0
+New York,2025-06-05 03:00:00,20.58,70,Clear,céu limpo,4.16,1021,0
+New York,2025-06-05 06:00:00,19.3,73,Clear,céu limpo,3.39,1020,0
+New York,2025-06-05 09:00:00,19.84,76,Clouds,nuvens quebradas,2.28,1019,0
+New York,2025-06-05 12:00:00,22.03,65,Clouds,nuvens quebradas,2.92,1019,0
+New York,2025-06-05 15:00:00,27.55,47,Clouds,nublado,2.53,1018,0
+New York,2025-06-05 18:00:00,29.5,43,Clouds,nuvens quebradas,4.65,1016,0
+New York,2025-06-05 21:00:00,30.28,40,Clouds,nublado,5.37,1015,0
+New York,2025-06-06 00:00:00,28.01,50,Clouds,nuvens quebradas,4.19,1015,0
+New York,2025-06-06 03:00:00,24.99,65,Clouds,nublado,4.28,1016,0
+New York,2025-06-06 06:00:00,22.75,62,Clouds,nublado,6.08,1016,0
+New York,2025-06-06 09:00:00,21.41,60,Clouds,nublado,4.02,1016,0
+New York,2025-06-06 12:00:00,22.53,55,Clouds,nublado,4.07,1016,0
+New York,2025-06-06 15:00:00,26.7,40,Clouds,nublado,4.63,1016,0
+New York,2025-06-06 18:00:00,28.34,38,Clouds,nuvens quebradas,5.33,1014,0
+New York,2025-06-06 21:00:00,26.75,43,Clouds,nuvens dispersas,7.04,1013,0
+New York,2025-06-07 00:00:00,22.23,59,Clouds,nuvens quebradas,6.34,1013,0
+New York,2025-06-07 03:00:00,19.57,77,Clouds,nuvens quebradas,4.72,1013,0
+New York,2025-06-07 06:00:00,18.71,82,Clouds,nuvens quebradas,3.02,1013,0
+New York,2025-06-07 09:00:00,18.04,86,Clouds,nublado,2.73,1011,0
+New York,2025-06-07 12:00:00,18.89,81,Clouds,nublado,2.6,1011,0
+New York,2025-06-07 15:00:00,19.86,75,Clouds,nublado,0.52,1010,0
+New York,2025-06-07 18:00:00,19.89,75,Clouds,nublado,1.81,1009,0
+New York,2025-06-07 21:00:00,20.42,73,Clouds,nublado,1.67,1009,0
+New York,2025-06-08 00:00:00,20.87,75,Clouds,nublado,1.89,1008,0
+New York,2025-06-08 03:00:00,19.46,84,Clouds,nublado,2.5,1008,0
+New York,2025-06-08 06:00:00,18.77,88,Clouds,nublado,2.45,1007,0
+New York,2025-06-08 09:00:00,18.4,91,Clouds,nublado,2.17,1006,0
+New York,2025-06-08 12:00:00,20.04,81,Clouds,nublado,3.09,1007,0
+New York,2025-06-08 15:00:00,19.49,84,Rain,chuva fraca,5.16,1006,0.69
+New York,2025-06-08 18:00:00,19.42,87,Clouds,nublado,6.26,1004,0.03
+New York,2025-06-08 21:00:00,19.07,93,Rain,chuva fraca,5.1,1003,0.93
+New York,2025-06-09 00:00:00,19.3,94,Rain,chuva fraca,1.63,1003,1
+New York,2025-06-09 03:00:00,18.78,88,Clouds,céu pouco nublado,5.04,1005,0
+New York,2025-06-09 06:00:00,17.77,88,Clear,céu limpo,6.13,1006,0
+New York,2025-06-09 09:00:00,17.05,80,Clouds,céu pouco nublado,4.7,1009,0
+New York,2025-06-09 12:00:00,18.98,67,Clear,céu limpo,4.7,1011,0
+New York,2025-06-09 15:00:00,24.46,46,Clear,céu limpo,2.99,1012,0
+Paris,2025-06-04 18:00:00,20.08,54,Clear,céu limpo,1.75,1009,0
+Paris,2025-06-04 21:00:00,18.93,56,Clouds,nuvens dispersas,1.64,1010,0
+Paris,2025-06-05 00:00:00,15.41,67,Rain,chuva fraca,3.47,1010,0.2
+Paris,2025-06-05 03:00:00,11.69,86,Rain,chuva fraca,3.63,1011,0.2
+Paris,2025-06-05 06:00:00,13.79,81,Clouds,nuvens quebradas,4.62,1012,0
+Paris,2025-06-05 09:00:00,15.68,76,Clouds,nublado,5.19,1012,0
+Paris,2025-06-05 12:00:00,19.85,57,Rain,chuva fraca,6.85,1011,1
+Paris,2025-06-05 15:00:00,20.58,53,Rain,chuva fraca,6.53,1010,0.26
+Paris,2025-06-05 18:00:00,17.33,79,Clouds,nublado,6.88,1009,0
+Paris,2025-06-05 21:00:00,16.14,89,Rain,chuva fraca,7.73,1009,0.47
+Paris,2025-06-06 00:00:00,16.75,90,Rain,chuva fraca,7.16,1008,0.75
+Paris,2025-06-06 03:00:00,14.49,88,Rain,chuva fraca,4.75,1011,1
+Paris,2025-06-06 06:00:00,13.36,84,Clouds,nuvens quebradas,4.28,1013,0.8
+Paris,2025-06-06 09:00:00,16.56,61,Clouds,nublado,4.04,1014,0
+Paris,2025-06-06 12:00:00,21.22,40,Clouds,nublado,4.97,1014,0
+Paris,2025-06-06 15:00:00,20.91,41,Clouds,nublado,5,1014,0
+Paris,2025-06-06 18:00:00,19.33,52,Clouds,nublado,2.82,1014,0
+Paris,2025-06-06 21:00:00,17.15,65,Clouds,nuvens quebradas,1.09,1014,0
+Paris,2025-06-07 00:00:00,15.85,69,Clouds,nublado,2.74,1014,0
+Paris,2025-06-07 03:00:00,13.77,73,Clouds,nuvens quebradas,3.79,1014,0
+Paris,2025-06-07 06:00:00,14.08,78,Clouds,nuvens quebradas,4.88,1014,0
+Paris,2025-06-07 09:00:00,17.41,63,Clouds,nuvens quebradas,5.68,1013,0
+Paris,2025-06-07 12:00:00,18.95,57,Rain,chuva fraca,6.39,1012,0.2
+Paris,2025-06-07 15:00:00,20.07,60,Rain,chuva fraca,7.17,1011,1
+Paris,2025-06-07 18:00:00,19.76,59,Rain,chuva fraca,6.87,1011,1
+Paris,2025-06-07 21:00:00,15.84,80,Rain,chuva fraca,4.68,1013,0.95
+Paris,2025-06-08 00:00:00,13.2,74,Rain,chuva fraca,4.79,1015,1
+Paris,2025-06-08 03:00:00,11.36,80,Clear,céu limpo,4.44,1016,0
+Paris,2025-06-08 06:00:00,12.76,71,Clear,céu limpo,4.6,1018,0
+Paris,2025-06-08 09:00:00,17.07,45,Clouds,céu pouco nublado,5.54,1019,0
+Paris,2025-06-08 12:00:00,16.49,53,Rain,chuva fraca,6.01,1021,0.34
+Paris,2025-06-08 15:00:00,18.15,33,Rain,chuva fraca,6.05,1022,0.34
+Paris,2025-06-08 18:00:00,16.69,38,Clouds,nuvens dispersas,4.77,1024,0
+Paris,2025-06-08 21:00:00,13.58,53,Clear,céu limpo,2.56,1026,0
+Paris,2025-06-09 00:00:00,11.74,63,Clear,céu limpo,2,1027,0
+Paris,2025-06-09 03:00:00,10.32,76,Clear,céu limpo,1.63,1028,0
+Paris,2025-06-09 06:00:00,12.26,67,Clear,céu limpo,1.39,1029,0
+Paris,2025-06-09 09:00:00,17.93,40,Clear,céu limpo,0.86,1029,0
+Paris,2025-06-09 12:00:00,21.87,29,Clear,céu limpo,0.88,1027,0
+Paris,2025-06-09 15:00:00,23.13,27,Clear,céu limpo,0.93,1026,0
+Suzhou,2025-06-04 18:00:00,23.28,62,Clouds,nuvens quebradas,2.29,1010,0
+Suzhou,2025-06-04 21:00:00,22.92,61,Clouds,nuvens dispersas,2.42,1010,0
+Suzhou,2025-06-05 00:00:00,26,52,Clouds,nuvens dispersas,3.34,1010,0
+Suzhou,2025-06-05 03:00:00,29.54,25,Clouds,nuvens quebradas,5.15,1010,0
+Suzhou,2025-06-05 06:00:00,31.95,23,Clouds,nuvens quebradas,5.49,1009,0
+Suzhou,2025-06-05 09:00:00,31.12,30,Clouds,nuvens dispersas,5.19,1008,0
+Suzhou,2025-06-05 12:00:00,25.58,49,Clouds,céu pouco nublado,4.86,1008,0
+Suzhou,2025-06-05 15:00:00,23.58,55,Clear,céu limpo,4.1,1008,0
+Suzhou,2025-06-05 18:00:00,23,61,Clouds,nuvens dispersas,4.07,1007,0
+Suzhou,2025-06-05 21:00:00,22.14,68,Clouds,nuvens dispersas,3.54,1007,0
+Suzhou,2025-06-06 00:00:00,24.85,53,Clouds,nuvens quebradas,3.66,1007,0
+Suzhou,2025-06-06 03:00:00,29.87,39,Clouds,nublado,3.49,1007,0
+Suzhou,2025-06-06 06:00:00,32.3,35,Clouds,nublado,2.51,1005,0
+Suzhou,2025-06-06 09:00:00,32.92,38,Clouds,nuvens quebradas,2.04,1004,0
+Suzhou,2025-06-06 12:00:00,28.26,58,Clouds,nuvens quebradas,3.68,1005,0
+Suzhou,2025-06-06 15:00:00,25.5,80,Rain,chuva fraca,2.59,1005,1
+Suzhou,2025-06-06 18:00:00,24.44,89,Rain,chuva moderada,0.99,1005,1
+Suzhou,2025-06-06 21:00:00,24,91,Rain,chuva moderada,2.22,1005,1
+Suzhou,2025-06-07 00:00:00,26.85,79,Rain,chuva fraca,2.05,1006,1
+Suzhou,2025-06-07 03:00:00,28.75,71,Rain,chuva fraca,1.16,1006,0.88
+Suzhou,2025-06-07 06:00:00,29.81,68,Rain,chuva fraca,2.25,1004,0.96
+Suzhou,2025-06-07 09:00:00,28.81,73,Rain,chuva fraca,1.99,1004,0.95
+Suzhou,2025-06-07 12:00:00,27.15,82,Rain,chuva fraca,1.9,1005,0.98
+Suzhou,2025-06-07 15:00:00,25.66,87,Rain,chuva fraca,2.84,1005,0.21
+Suzhou,2025-06-07 18:00:00,24.74,88,Clouds,nublado,2.26,1004,0
+Suzhou,2025-06-07 21:00:00,24.28,88,Clouds,nublado,2.6,1004,0
+Suzhou,2025-06-08 00:00:00,24.86,84,Clouds,nublado,2.51,1005,0
+Suzhou,2025-06-08 03:00:00,27.9,71,Rain,chuva fraca,3.73,1005,0.2
+Suzhou,2025-06-08 06:00:00,27.34,72,Rain,chuva fraca,4.59,1004,0.37
+Suzhou,2025-06-08 09:00:00,25.48,80,Rain,chuva fraca,3.99,1004,0.2
+Suzhou,2025-06-08 12:00:00,23.89,85,Rain,chuva fraca,4.31,1004,0.2
+Suzhou,2025-06-08 15:00:00,23.37,88,Clouds,nublado,3.51,1005,0
+Suzhou,2025-06-08 18:00:00,23.07,89,Rain,chuva fraca,3.39,1004,0.2
+Suzhou,2025-06-08 21:00:00,22.76,90,Rain,chuva fraca,4.01,1004,0.62
+Suzhou,2025-06-09 00:00:00,22.91,86,Rain,chuva fraca,4.89,1005,0.67
+Suzhou,2025-06-09 03:00:00,23.77,74,Clouds,nublado,4.82,1007,0.05
+Suzhou,2025-06-09 06:00:00,27.48,53,Clouds,nublado,5.75,1005,0.01
+Suzhou,2025-06-09 09:00:00,25.24,68,Clouds,nuvens dispersas,6.11,1006,0
+Suzhou,2025-06-09 12:00:00,22.29,76,Clouds,nuvens quebradas,5.47,1006,0
+Suzhou,2025-06-09 15:00:00,22.12,84,Clouds,nuvens quebradas,5.07,1007,0
+London,2025-06-04 18:00:00,16.57,67,Rain,chuva fraca,4.32,1006,0.29
+London,2025-06-04 21:00:00,16.14,70,Rain,chuva fraca,3.32,1006,0.77
+London,2025-06-05 00:00:00,14.19,83,Clouds,nublado,2.62,1007,0.26
+London,2025-06-05 03:00:00,13.29,90,Clouds,nublado,2.2,1006,0
+London,2025-06-05 06:00:00,12.21,93,Rain,chuva fraca,3.72,1005,0.53
+London,2025-06-05 09:00:00,12.35,94,Rain,chuva fraca,4.8,1004,1
+London,2025-06-05 12:00:00,14.62,87,Rain,chuva fraca,6.21,1004,1
+London,2025-06-05 15:00:00,15.91,79,Rain,chuva fraca,6.18,1003,1
+London,2025-06-05 18:00:00,15.14,77,Rain,chuva fraca,4.34,1003,1
+London,2025-06-05 21:00:00,12.71,94,Rain,chuva fraca,3.78,1003,1
+London,2025-06-06 00:00:00,12.09,95,Rain,chuva moderada,2.86,1003,1
+London,2025-06-06 03:00:00,11.61,93,Clouds,nublado,4.17,1004,0
+London,2025-06-06 06:00:00,11.27,90,Clouds,nuvens quebradas,5.1,1006,0
+London,2025-06-06 09:00:00,15.63,54,Rain,chuva fraca,6.26,1008,0.2
+London,2025-06-06 12:00:00,17.84,34,Clouds,nuvens dispersas,6.16,1009,0
+London,2025-06-06 15:00:00,19.04,32,Clouds,nuvens quebradas,5.69,1010,0
+London,2025-06-06 18:00:00,16.62,43,Clouds,nuvens quebradas,3.97,1010,0
+London,2025-06-06 21:00:00,13.48,71,Rain,chuva fraca,3.59,1011,0.2
+London,2025-06-07 00:00:00,12.71,77,Clouds,nublado,3.58,1009,0
+London,2025-06-07 03:00:00,11.82,89,Rain,chuva fraca,4.04,1007,0.77
+London,2025-06-07 06:00:00,12.08,85,Rain,chuva fraca,4.58,1006,0.61
+London,2025-06-07 09:00:00,12.89,91,Rain,chuva fraca,6.23,1004,1
+London,2025-06-07 12:00:00,14.3,89,Rain,chuva fraca,8.17,1002,1
+London,2025-06-07 15:00:00,16.11,71,Rain,chuva fraca,7.67,1002,1
+London,2025-06-07 18:00:00,15.91,66,Rain,chuva fraca,7.1,1002,1
+London,2025-06-07 21:00:00,13.79,73,Clouds,nuvens quebradas,6.63,1005,0
+London,2025-06-08 00:00:00,11.49,74,Clouds,nuvens quebradas,6.33,1009,0
+London,2025-06-08 03:00:00,10.15,79,Clouds,nuvens dispersas,4.97,1011,0
+London,2025-06-08 06:00:00,10.71,67,Clouds,nuvens dispersas,5,1014,0
+London,2025-06-08 09:00:00,14.01,49,Clear,céu limpo,5.89,1017,0
+London,2025-06-08 12:00:00,14.49,49,Clouds,nuvens dispersas,5.27,1019,0
+London,2025-06-08 15:00:00,16.86,38,Clouds,nublado,5.53,1020,0
+London,2025-06-08 18:00:00,16.01,44,Clouds,nublado,4.07,1022,0
+London,2025-06-08 21:00:00,12.66,57,Clear,céu limpo,3.09,1024,0
+London,2025-06-09 00:00:00,10.66,81,Clear,céu limpo,2.91,1025,0
+London,2025-06-09 03:00:00,9.4,88,Clouds,nuvens dispersas,2.37,1025,0
+London,2025-06-09 06:00:00,11.15,79,Clouds,nuvens dispersas,2.97,1026,0
+London,2025-06-09 09:00:00,16.41,54,Clouds,nublado,3.17,1026,0
+London,2025-06-09 12:00:00,20.36,39,Clouds,nuvens quebradas,4.38,1025,0
+London,2025-06-09 15:00:00,20.91,39,Clouds,nublado,5.07,1023,0
