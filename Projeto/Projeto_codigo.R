@@ -1,6 +1,6 @@
 
 # Projeto SAD 2024/2025 -  Como o clima afetaria a procura por partilha de bicicletas em áreas urbanas
-# Grupo: Guilherme Carvalho 30010987, Hugo Pedro 30010791 e Mario Felix 300
+# Grupo: Guilherme Carvalho 30010987, Hugo Pedro 30010791 e Mario Felix 30011520
 
 #-------------------------------------------------------------------------------
 # Bloco 1: Configuração Inicial e Bibliotecas
