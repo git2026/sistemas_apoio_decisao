@@ -6,7 +6,8 @@ Pré-requisitos
 
 R: Versão 4.0 ou superior.
 RStudio: Versão 2022.07 ou superior.
-Instalação de dependências
+
+
 Abra a consola do RStudio e execute o seguinte comando para instalar todas as bibliotecas necessárias para o projeto:
 install.packages(c(
     "rvest", "httr", "jsonlite", "dplyr", "readr", "purrr", "data.table",
