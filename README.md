@@ -1,4 +1,5 @@
 Análise e Previsão da Procura de Partilha de Bicicletas
+
 Este projeto analisa como as condições meteorológicas e temporais influenciam a procura por serviços de partilha de bicicletas em áreas populadas. Utiliza dados históricos para treinar um modelo de regressão e apresenta as previsões numa aplicação interativa construída com R e Shiny.
 
 
